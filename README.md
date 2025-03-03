@@ -19,8 +19,8 @@ Esse projeto é um modelo de portfólio que encontrei em um curso de Bootstrap l
 
 Evoluções pessoais:
 - Aprendi com uma organização impecável do código 
-- Entendi mais sobre as meta tags, SEO e qualidade de referencial.
-- Aprendi a customização de elementos não só para aplicações bootstrap.
+- Entendi mais sobre as meta tags, SEO e qualidade de referencial
+- Aprendi a customização de elementos não só para aplicações bootstrap
 - Entendi muito mais sobre responsividade
 - Endendi perfeitamente sobre media querys 
 
